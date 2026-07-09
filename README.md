@@ -1,6 +1,8 @@
 # Insurance-Claims-Analytics-Dashboard-using-Power-BI
 Interactive Insurance Claims Analytics Dashboard built using Power BI to analyze policy performance, premium collection, claim status, and customer demographics. Implemented Power Query, DAX, Drill-through, Row-Level Security (RLS), and Power BI Service for secure, interactive, and data-driven business reporting.
 
+## Dashboard Link 
+https://app.powerbi.com/groups/f5d0a93b-bbb7-44db-ba1c-3bbc95453ce9/reports/e4cbdd96-4edc-4d6f-838c-8eb533ae0e98/7e0ad3d4eb089cbeda68?experience=power-bi
 
 ## Dashboard Overview
 
